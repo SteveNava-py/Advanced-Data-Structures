@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Advanced Data Structures.iml" filepath="$PROJECT_DIR$/Advanced Data Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CentipedeGame/CentipedeGame.iml" filepath="$PROJECT_DIR$/CentipedeGame/CentipedeGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaWarmup/JavaWarmup.iml" filepath="$PROJECT_DIR$/JavaWarmup/JavaWarmup.iml" />
     </modules>
   </component>
