@@ -109,7 +109,7 @@ public class GamePanel extends JPanel implements ActionListener, KeyListener {
 
         if (!running) {
             g.setColor(Color.RED);
-            g.drawString("YOU DIED", getWidth() / 2 - (25 * 5), getHeight() / 2);
+            g.drawString("GET FCKED", getWidth() / 2 - (25 * 5), getHeight() / 2);
         }
 
     }

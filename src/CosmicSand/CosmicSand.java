@@ -2,7 +2,7 @@
 // DATE: 1/30/2025
 // ENHANCEMENTS: A cosmic background, rainbow sand, and can vacuum sand
 
-package FallingSand;
+package CosmicSand;
 
 import javax.swing.JFrame;
 

@@ -2,7 +2,7 @@
 // DATE: 1/30/2025
 // ENHANCEMENTS: A cosmic background, rainbow sand, and can vacuum sand
 
-package FallingSand;
+package CosmicSand;
 
 /** To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
