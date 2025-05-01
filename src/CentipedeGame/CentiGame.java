@@ -12,7 +12,6 @@ Modifications:
  */
 
 package CentipedeGame;
-
 import javax.swing.*;
 
 public class CentiGame {
